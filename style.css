@@ -1,0 +1,175 @@
+.btn {
+  background: #686d70;
+  background-image: -webkit-linear-gradient(top, #686d70, #686d70);
+  background-image: -moz-linear-gradient(top, #686d70, #686d70);
+  background-image: -ms-linear-gradient(top, #686d70, #686d70);
+  background-image: -o-linear-gradient(top, #686d70, #686d70);
+  background-image: linear-gradient(to bottom, #686d70, #686d70);
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top : 20px;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+table{
+  text-align: center;
+}
+
+th{
+  font-size : 25px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.form-container {
+   border: 1px solid #d6d6d6;
+   background: #7a7876;
+   background: -webkit-gradient(linear, left top, left bottom, from(#cfcfcf), to(#7a7876));
+   background: -webkit-linear-gradient(top, #cfcfcf, #7a7876);
+   background: -moz-linear-gradient(top, #cfcfcf, #7a7876);
+   background: -ms-linear-gradient(top, #cfcfcf, #7a7876);
+   background: -o-linear-gradient(top, #cfcfcf, #7a7876);
+   background-image: -ms-linear-gradient(top, #cfcfcf 0%, #7a7876 100%);
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   -webkit-box-shadow: rgba(000,000,000,0.9) 0 1px 2px, inset rgba(255,255,255,0.4) 0 0px 0;
+   -moz-box-shadow: rgba(000,000,000,0.9) 0 1px 2px, inset rgba(255,255,255,0.4) 0 0px 0;
+   box-shadow: rgba(000,000,000,0.9) 0 1px 2px, inset rgba(255,255,255,0.4) 0 0px 0;
+   font-family: 'Helvetica Neue',Helvetica,sans-serif;
+   text-decoration: none;
+   vertical-align: middle;
+   min-width:300px;
+   padding:20px;
+   width:300px;
+   }
+.form-field {
+   border: 1px solid #ffffff;
+   background: #cfcfcf;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+   color: #000000;
+   -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(000,000,000,0.7) 0 0px 0px;
+   -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(000,000,000,0.7) 0 0px 0px;
+   box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(000,000,000,0.7) 0 0px 0px;
+   padding:8px;
+   margin-bottom:20px;
+   width:280px;
+   }
+.form-field:focus {
+   background: #e0dde0;
+   color: #000000;
+   }
+.form-container h2 {
+   text-shadow: #ffffff 0 1px 0;
+   font-size:18px;
+   margin: 0 0 10px 0;
+   font-weight:bold;
+   text-align:center;
+    }
+.form-title {
+   margin-bottom:10px;
+   color: #30302f;
+   text-shadow: #ffffff 0 1px 0;
+   }
+.submit-container {
+   margin:8px 0;
+   text-align:right;
+   }
+.submit-button {
+   border: 0px solid #d6d6d6;
+   background: #626361;
+   background: -webkit-gradient(linear, left top, left bottom, from(#c2c2c2), to(#626361));
+   background: -webkit-linear-gradient(top, #c2c2c2, #626361);
+   background: -moz-linear-gradient(top, #c2c2c2, #626361);
+   background: -ms-linear-gradient(top, #c2c2c2, #626361);
+   background: -o-linear-gradient(top, #c2c2c2, #626361);
+   background-image: -ms-linear-gradient(top, #c2c2c2 0%, #626361 100%);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   text-shadow: #ffffff 0 1px 0;
+   color: #000000;
+   font-family: helvetica, serif;
+   padding: 8.5px 18px;
+   font-size: 14px;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+
+
+   table.fromben {
+   font-family: Verdana, Geneva, sans-serif;
+   border: 2px solid #6E6E6E;
+   background-color: #EEEEEE;
+   width: 100%;
+   height: 200px;
+   text-align: center;
+   border-collapse: collapse;
+ }
+ table.fromben td, table.fromben th {
+   border: 1px solid #AAAAAA;
+   padding: 7px 0px;
+ }
+ table.fromben tbody td {
+   font-size: 13px;
+ }
+ table.fromben tr:nth-child(even) {
+   background: #D5D5D5;
+ }
+ table.fromben td:nth-child(even) {
+   background: #C6C6C6;
+ }
+ table.fromben thead {
+   background: #6E6E6E;
+   background: -moz-linear-gradient(top, #929292 0%, #7c7c7c 66%, #6E6E6E 100%);
+   background: -webkit-linear-gradient(top, #929292 0%, #7c7c7c 66%, #6E6E6E 100%);
+   background: linear-gradient(to bottom, #929292 0%, #7c7c7c 66%, #6E6E6E 100%);
+   border-bottom: 2px solid #B9B9B9;
+ }
+ table.fromben thead th {
+   font-size: 15px;
+   font-weight: bold;
+   color: #FFFFFF;
+   border-left: 2px solid #B9B9B9;
+ }
+ table.fromben thead th:first-child {
+   border-left: none;
+ }
+
+ table.fromben tfoot {
+   font-size: 14px;
+   font-weight: bold;
+   color: #FFFFFF;
+   background: #F5F5F5;
+   background: -moz-linear-gradient(top, #f7f7f7 0%, #f6f6f6 66%, #F5F5F5 100%);
+   background: -webkit-linear-gradient(top, #f7f7f7 0%, #f6f6f6 66%, #F5F5F5 100%);
+   background: linear-gradient(to bottom, #f7f7f7 0%, #f6f6f6 66%, #F5F5F5 100%);
+   border-top: 0px solid #444444;
+ }
+ table.fromben tfoot td {
+   font-size: 14px;
+ }
+ table.fromben tfoot .links {
+   text-align: right;
+ }
+ table.fromben tfoot .links a{
+   display: inline-block;
+   background: #A4A4A4;
+   color: #FFFFFF;
+   padding: 2px 8px;
+   border-radius: 5px;
+ }
